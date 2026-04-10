@@ -1,7 +1,6 @@
 // ============================================================
 //  ROVER CONTROL  —  PID-Driven Autonomous Rover Game
-//  Author  : [Your Name]
-//  Degree  : BSc Automatic Control & Robotics
+//  Author  : Sarthak Bikram Panta
 //
 //  Compatible : C++11, OnlineGDB (Linux, no raw-mode needed)
 //  Input mode : type a command + ENTER each turn (turn-based)
